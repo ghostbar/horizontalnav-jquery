@@ -23,3 +23,6 @@ Change #elementcontainer to whatever you want.
 
 = License
 BSD 3-clausule; © 2011, Jose Luis Rivas
+
+= Contact
+@ghostbar & joseluis@rivco.net
