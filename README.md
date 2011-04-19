@@ -1,11 +1,11 @@
-= Horizontal Navigation plugin
+# Horizontal Navigation plugin 
 
-== How to use
+## How to use
 Just call it as 
 
 <pre>$('#elementcontainer').horizontalnav();</pre>
 
-== Structure required
+## Structure required
 
 <pre>
 <div id="elementcontainer">
@@ -21,8 +21,8 @@ Just call it as
 
 Change #elementcontainer to whatever you want.
 
-= License
+# License
 BSD 3-clausule; © 2011, Jose Luis Rivas
 
-= Contact
+# Contact
 @ghostbar & joseluis@rivco.net
