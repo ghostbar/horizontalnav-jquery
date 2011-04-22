@@ -23,6 +23,8 @@
 				$(this).next(".content").fadeIn('slow').show();
 			});
 		});
+
+		return this;
 	};
 
 })(jQuery);
