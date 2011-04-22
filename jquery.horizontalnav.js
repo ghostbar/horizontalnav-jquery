@@ -6,6 +6,7 @@
  *
  * @args: none
  * @reqs: jQuery
+ * @license: BSD
 */
 
 (function($){
